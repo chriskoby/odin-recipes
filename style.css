@@ -33,5 +33,7 @@ p{
 .button{
     font-size: 18px;
     border: 1px solid blue;
-    margin: 0px auto;
+    margin: 0 auto;
+    width: 50px;
+    display: block;
 }
